@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Updater</string>
+    <string name="checking_update">正在检查更新。。。</string>
 </resources>
