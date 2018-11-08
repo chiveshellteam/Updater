@@ -10,4 +10,6 @@ public interface Appearance {
     Dialog getCheckingDialog();
 
     Dialog getUpdateDetailDialog();
+
+    Dialog getDownloadFinishedDialog();
 }

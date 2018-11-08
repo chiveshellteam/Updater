@@ -9,4 +9,6 @@ public interface NetAccessor {
     String getNewestVersionName();
 
     String getDownloadUrl();
+
+    String getSavePath();
 }
